@@ -1,0 +1,13 @@
+Olá, Tudo bem?
+
+Estes foram os dados que você nos forneceu em sua inscrição:
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Entraremos em contato em até 48 horas para concluir sua matrícula.
+
+Atenciosamente,
+--
+Morena
